@@ -4,11 +4,11 @@ A simple python project to track income and expenses.
 -Add income
 -Add expenses
 -View transactions
--check balance
-### How to Run:
+-Check balance
+## How to Run:
 -python main.py
 ## Technology used:
--python
+-Python
 ## Future improvements:
 -Add GUI
 -Add charts for expenses
